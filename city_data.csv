@@ -1,0 +1,342 @@
+"New York City, New York","Boston, Massachusetts",635
+"New York City, New York","Boston, Massachusetts",635
+"New York City, New York","Detroit, Michigan",692
+"New York City, New York","Chicago, Illinois",1132
+"New York City, New York","Washington, D.C.",2414
+"New York City, New York","Philadelphia, Pennsylvania",2272
+"Los Angeles, California","Bakersfield, California",112
+"Los Angeles, California","Phoenix, Arizona",364
+"Los Angeles, California","San Diego, California",120
+"Los Angeles, California","Santa Barbara, California",92
+"Chicago, Illinois","Columbus, Ohio",272
+"Chicago, Illinois","Indianapolis, Indiana",173
+"Chicago, Illinois","St. Louis, Missouri",262
+"Chicago, Illinois","Des Moines, Iowa",323
+"Houston, Texas","El Paso, Texas",674
+"Houston, Texas","New Orleans, Louisiana",348
+"Houston, Texas","San Antonio, Texas",197
+"Houston, Texas","Dallas, Texas",225
+"Phoenix, Arizona","Tucson, Arizona",117
+"Phoenix, Arizona","Mesa, Arizona",12
+"Phoenix, Arizona","Las Vegas, Nevada",256
+"Phoenix, Arizona","Flagstaff, Arizona",137
+"Philadelphia, Pennsylvania","New York City, New York",82
+"Philadelphia, Pennsylvania","Baltimore, Maryland",96
+"Philadelphia, Pennsylvania","Washington, D.C.",123
+"Philadelphia, Pennsylvania","Newark, New Jersey",80
+"Dallas, Texas","Houston, Texas",225
+"Dallas, Texas","Fort Worth, Texas",31
+"Dallas, Texas","Oklahoma City, Oklahoma",205
+"Dallas, Texas","San Antonio, Texas",274
+"San Jose, California","San Francisco, California",42
+"San Jose, California","Oakland, California",33
+"San Jose, California","Fresno, California",120
+"San Jose, California","Sacramento, California",109
+"Austin, Texas","Houston, Texas",197
+"Austin, Texas","San Antonio, Texas",75
+"Austin, Texas","Fort Worth, Texas",190
+"Austin, Texas","Dallas, Texas",189
+"Jacksonville, Florida","Tampa, Florida",186
+"Jacksonville, Florida","Miami, Florida",338
+"Jacksonville, Florida","Orlando, Florida",127
+"Jacksonville, Florida","Atlanta, Georgia",258
+"San Francisco, California","San Jose, California",42
+"San Francisco, California","Oakland, California",8
+"San Francisco, California","Sacramento, California",76
+"San Francisco, California","Fresno, California",155
+"Indianapolis, Indiana","Columbus, Ohio",172
+"Indianapolis, Indiana","Chicago, Illinois",170
+"Indianapolis, Indiana","Fort Wayne, Indiana",111
+"Indianapolis, Indiana","Louisville, Kentucky",112
+"Columbus, Ohio","Indianapolis, Indiana",172
+"Columbus, Ohio","Cleveland, Ohio",142
+"Columbus, Ohio","Cincinnati, Ohio",100
+"Columbus, Ohio","Pittsburgh, Pennsylvania",185
+"Fort Worth, Texas","Dallas, Texas",32
+"Fort Worth, Texas","Austin, Texas",146
+"Fort Worth, Texas","Oklahoma City, Oklahoma",203
+"Charlotte, North Carolina","Atlanta, Georgia",250
+"Charlotte, North Carolina","Columbia, South Carolina",90
+"Charlotte, North Carolina","Raleigh, North Carolina",140
+"Charlotte, North Carolina","Greensboro, North Carolina",70
+"Charlotte, North Carolina","Winston-Salem, North Carolina",90
+"Charlotte, North Carolina","Nashville, Tennessee",230
+"Seattle, Washington","Spokane, Washington",280
+"Seattle, Washington","Portland, Oregon",180
+"Seattle, Washington","Tacoma, Washington",30
+"Raleigh, North Carolina","Greensboro, North Carolina",80
+"Raleigh, North Carolina","Fayetteville, North Carolina",60
+"Raleigh, North Carolina","Columbia, South Carolina",220
+"Raleigh, North Carolina","Richmond, Virginia",140
+"Raleigh, North Carolina","Washington, D.C.",270
+"Baton Rouge, Louisiana","New Orleans, Louisiana",80
+"Baton Rouge, Louisiana","Shreveport, Louisiana",210
+"Oklahoma City, Oklahoma","Kansas City, Missouri",350
+"Oklahoma City, Oklahoma","Dallas, Texas",205
+"Oklahoma City, Oklahoma","Wichita, Kansas",160
+"Oklahoma City, Oklahoma","Tulsa, Oklahoma",107
+"Oklahoma City, Oklahoma","Fort Worth, Texas",204
+"Oklahoma City, Oklahoma","Memphis, Tennessee",382
+"Oklahoma City, Oklahoma","Little Rock, Arkansas",333
+"Oklahoma City, Oklahoma","Kansas City, Kansas",355
+"Oklahoma City, Oklahoma","St.Louis, Missouri",430
+"Oklahoma City, Oklahoma","Houston, Texas",430
+"Oklahoma City, Oklahoma","Des Moines, Iowa",358
+"Kansas City, Missouri","Oklahoma City, Oklahoma",350
+"Kansas City, Missouri","Des Moines, Iowa",189
+"Kansas City, Missouri","St. Louis, Missouri",248
+"Kansas City, Missouri","Wichita, Kansas",198
+"Kansas City, Missouri","Omaha, Nebraska",187
+"Kansas City, Missouri","Tulsa, Oklahoma",236
+"Kansas City, Missouri","Little Rock, Arkansas",303
+"Denver, Colorado","Salt Lake City, Utah",516
+"Denver, Colorado","Albuquerque, New Mexico",447
+"Denver, Colorado","Boise, Idaho",500
+"Denver, Colorado","Oklahoma City, Oklahoma",526
+"Denver, Colorado","Kansas City, Missouri",600
+"El Paso, Texas","Albuquerque, New Mexico",269
+"El Paso, Texas","Phoenix, Arizona",347
+"El Paso, Texas","Austin, Texas",554
+"El Paso, Texas","Oklahoma City, Oklahoma",500
+"El Paso, Texas","San Antonio, Texas",547
+"Washington, D.C.","Baltimore, Maryland",38
+"Washington, D.C.","Philadelphia, Pennsylvania",123
+"Washington, D.C.","Richmond, Virginia",110
+"Washington, D.C.","Raleigh, North Carolina",257
+"Detroit, Michigan","Chicago, Illinois",282
+"Detroit, Michigan","Columbus, Ohio",170
+"Detroit, Michigan","Indianapolis, Indiana",250
+"Detroit, Michigan","Cleveland, Ohio",169
+"Detroit, Michigan","Cincinnati, Ohio",243
+"Boston, Massachusetts","New York City, New York",215
+"Nashville, Tennessee","Memphis, Tennessee",200
+"Nashville, Tennessee","Louisville, Kentucky",173
+"Nashville, Tennessee","Indianapolis, Indiana",260
+"Nashville, Tennessee","Atlanta, Georgia",216
+"Nashville, Tennessee","St. Louis, Missouri",250
+"Memphis, Tennessee","Nashville, Tennessee",200
+"Memphis, Tennessee","Louisville, Kentucky",167
+"Memphis, Tennessee","Little Rock, Arkansas",137
+"Memphis, Tennessee","St. Louis, Missouri",210
+"Portland, Oregon","Seattle, Washington",173
+"Portland, Oregon","Boise, Idaho",344
+"Portland, Oregon","Sacramento, California",527
+"Portland, Oregon","San Francisco, California",633
+"Las Vegas, Nevada","Los Angeles, California",236
+"Las Vegas, Nevada","Henderson, Nevada",13
+"Las Vegas, Nevada","Phoenix, Arizona",298
+"Louisville, Kentucky","Nashville, Tennessee",167
+"Louisville, Kentucky","Cincinnati, Ohio",98
+"Louisville, Kentucky","Indianapolis, Indiana",112
+"Louisville, Kentucky","Lexington, Kentucky",74
+"Baltimore, Maryland","Washington, D.C.",38
+"Baltimore, Maryland","Philadelphia, Pennsylvania",106
+"Baltimore, Maryland","Arlington, Virginia",40
+"Milwaukee, Wisconsin","Chicago, Illinois",92
+"Milwaukee, Wisconsin","Madison, Wisconsin",77
+"Milwaukee, Wisconsin","Minneapolis, Minnesota",337
+"Milwaukee, Wisconsin","Detroit, Michigan",278
+"Milwaukee, Wisconsin","Green Bay, Wisconsin",117
+"Milwaukee, Wisconsin","St. Paul, Minnesota",321
+"Albuquerque, New Mexico","Phoenix, Arizona",392
+"Albuquerque, New Mexico","El Paso, Texas",266
+"Albuquerque, New Mexico","Mesa, Arizona",343
+"Albuquerque, New Mexico","Tucson, Arizona",324
+"Albuquerque, New Mexico","Colorado Springs, Colorado",323
+"Albuquerque, New Mexico","Denver, Colorado",447
+"Albuquerque, New Mexico","Oklahoma City, Oklahoma",543
+"Albuquerque, New Mexico","Arlington, Texas",596
+"Albuquerque, New Mexico","Dallas, Texas",617
+"Albuquerque, New Mexico","Tulsa, Oklahoma",679
+"Albuquerque, New Mexico","Salt Lake City, Utah",571
+"Tucson, Arizona","Phoenix, Arizona",114
+"Tucson, Arizona","Mesa, Arizona",108
+"Tucson, Arizona","Chandler, Arizona",115
+"Fresno, California","Sacramento, California",157
+"Fresno, California","San Jose, California",150
+"Fresno, California","Oakland, California",171
+"Fresno, California","Stockton, California",83
+"Sacramento, California","San Francisco, California",86
+"Sacramento, California","Oakland, California",86
+"Sacramento, California","San Jose, California",119
+"Sacramento, California","Fresno, California",157
+"Sacramento, California","Reno, Nevada",131
+"Mesa, Arizona","Phoenix, Arizona",12
+"Mesa, Arizona","Chandler, Arizona",5
+"Mesa, Arizona","Gilbert, Arizona",6
+"Mesa, Arizona","Scottsdale, Arizona",9
+"Mesa, Arizona","Tempe, Arizona",5
+"Atlanta, Georgia","Charlotte, North Carolina",245
+"Atlanta, Georgia","Raleigh, North Carolina",311
+"Atlanta, Georgia","Nashville, Tennessee",213
+"Atlanta, Georgia","Birmingham, Alabama",147
+"Long Beach, California","Los Angeles, California",20
+"Long Beach, California","Anaheim, California",14
+"Long Beach, California","Santa Ana, California",17
+"Omaha, Nebraska","Wichita, Kansas",191
+"Omaha, Nebraska","Kansas City, Missouri",186
+"Omaha, Nebraska","Minneapolis, Minnesota",274
+"Omaha, Nebraska","Des Moines, Iowa",129
+"Miami, Florida","Hialeah, Florida",5
+"Miami, Florida","Miami Gardens, Florida",12
+"Miami, Florida","Miami Beach, Florida",5
+"Miami, Florida","Fort Lauderdale, Florida",27
+"Oakland, California","San Francisco, California",11
+"Oakland, California","San Jose, California",31
+"Oakland, California","Fremont, California",17
+"Oakland, California","Hayward, California",15
+"Oakland, California","Berkeley, California",6
+"Oakland, California","Richmond, California",12
+"Tulsa, Oklahoma","Oklahoma City, Oklahoma",107
+"Tulsa, Oklahoma","Kansas City, Missouri",234
+"Tulsa, Oklahoma","Wichita, Kansas",169
+"Tulsa, Oklahoma","Fort Worth, Texas",248
+"Tulsa, Oklahoma","Dallas, Texas",252
+"Cleveland, Ohio","Pittsburgh, Pennsylvania",134
+"Cleveland, Ohio","Columbus, Ohio",143
+"Cleveland, Ohio","Detroit, Michigan",93
+"Cleveland, Ohio","Indianapolis, Indiana",293
+"Cleveland, Ohio","Cincinnati, Ohio",216
+"Wichita, Kansas","Oklahoma City, Oklahoma",167
+"Wichita, Kansas","Kansas City, Missouri",197
+"Wichita, Kansas","Tulsa, Oklahoma",236
+"Wichita, Kansas","Omaha, Nebraska",273
+"Wichita, Kansas","Arlington, Texas",315
+"Arlington, Texas","Fort Worth, Texas",6
+"Arlington, Texas","Dallas, Texas",21
+"Arlington, Texas","Houston, Texas",195
+"Arlington, Texas","San Antonio, Texas",242
+"New Orleans, Louisiana","Baton Rouge, Louisiana",80
+"New Orleans, Louisiana","Mobile, Alabama",143
+"New Orleans, Louisiana","Jackson, Mississippi",160
+"New Orleans, Louisiana","Houston, Texas",348
+"Bakersfield, California","Fresno, California",107
+"Bakersfield, California","Los Angeles, California",114
+"Bakersfield, California","Riverside, California",146
+"Tampa, Florida","St. Petersburg, Florida",21
+"Tampa, Florida","Orlando, Florida",84
+"Tampa, Florida","Miami, Florida",248
+"Tampa, Florida","Jacksonville, Florida",179
+"Aurora, Colorado","Denver, Colorado",10
+"Aurora, Colorado","Colorado Springs, Colorado",69
+"Aurora, Colorado","Fort Collins, Colorado",79
+"Anaheim, California","Los Angeles, California",24
+"Anaheim, California","Long Beach, California",14
+"Anaheim, California","Riverside, California",33
+"Anaheim, California","San Diego, California",92
+"Santa Ana, California","Los Angeles, California",34
+"Santa Ana, California","Long Beach, California",21
+"Santa Ana, California","Riverside, California",40
+"Santa Ana, California","San Diego, California",89
+"St. Louis, Missouri","Kansas City, Missouri",250
+"St. Louis, Missouri","Memphis, Tennessee",213
+"St. Louis, Missouri","Chicago, Illinois",262
+"Riverside, California","Los Angeles, California",53
+"Riverside, California","Anaheim, California",33
+"Riverside, California","San Diego, California",98
+"Corpus Christi, Texas","San Antonio, Texas",143
+"Corpus Christi, Texas","Houston, Texas",200
+"Corpus Christi, Texas","Austin, Texas",197
+"Lexington, Kentucky","Louisville, Kentucky",79
+"Lexington, Kentucky","Cincinnati, Ohio",80
+"Lexington, Kentucky","Nashville, Tennessee",217
+"Stockton, California","Sacramento, California",47
+"Stockton, California","Oakland, California",76
+"Stockton, California","San Francisco, California",82
+"Pittsburgh, Pennsylvania","Cleveland, Ohio",133
+"Pittsburgh, Pennsylvania","Columbus, Ohio",185
+"Pittsburgh, Pennsylvania","Baltimore, Maryland",247
+"St. Paul, Minnesota","Minneapolis, Minnesota",10
+"St. Paul, Minnesota","Rochester, Minnesota",83
+"St. Paul, Minnesota","Duluth, Minnesota",154
+"Cincinnati, Ohio","Columbus, Ohio",107
+"Cincinnati, Ohio","Louisville, Kentucky",103
+"Cincinnati, Ohio","Indianapolis, Indiana",110
+"Henderson, Nevada","Las Vegas, Nevada",14
+"Henderson, Nevada","North Las Vegas, Nevada",14
+"Henderson, Nevada","Paradise, Nevada",6
+"Greensboro, North Carolina","Winston-Salem, North Carolina",31
+"Greensboro, North Carolina","Durham, North Carolina",53
+"Greensboro, North Carolina","Raleigh, North Carolina",75
+"Plano, Texas","Dallas, Texas",18
+"Plano, Texas","Fort Worth, Texas",39
+"Plano, Texas","Arlington, Texas",29
+"Newark, New Jersey","Jersey City, New Jersey",7
+"Newark, New Jersey","New York City, New York",10
+"Newark, New Jersey","Paterson, New Jersey",10
+"Toledo, Ohio","Detroit, Michigan",51
+"Toledo, Ohio","Cleveland, Ohio",108
+"Toledo, Ohio","Fort Wayne, Indiana",97
+"Fort Wayne, Indiana","Toledo, Ohio",97
+"Fort Wayne, Indiana","Indianapolis, Indiana",127
+"Fort Wayne, Indiana","Chicago, Illinois",163
+"St. Petersburg, Florida","Tampa, Florida",23
+"St. Petersburg, Florida","Clearwater, Florida",12
+"St. Petersburg, Florida","Orlando, Florida",104
+"Jersey City, New Jersey","Newark, New Jersey",7
+"Jersey City, New Jersey","New York City, New York",5
+"Jersey City, New Jersey","Elizabeth, New Jersey",7
+"Chandler, Arizona","Mesa, Arizona",7
+"Chandler, Arizona","Gilbert, Arizona",5
+"Chandler, Arizona","Scottsdale, Arizona",11
+"Madison, Wisconsin","Milwaukee, Wisconsin",75
+"Madison, Wisconsin","Chicago, Illinois",148
+"Madison, Wisconsin","Minneapolis, Minnesota",272
+"Lubbock, Texas","Amarillo, Texas",120
+"Lubbock, Texas","Midland, Texas",121
+"Lubbock, Texas","Odessa, Texas",127
+"Scottsdale, Arizona","Phoenix, Arizona",10
+"Scottsdale, Arizona","Mesa, Arizona",7
+"Scottsdale, Arizona","Chandler, Arizona",11
+"Reno, Nevada","Sparks, Nevada",3
+"Reno, Nevada","Carson City, Nevada",30
+"Reno, Nevada","South Lake Tahoe, California",60
+"Buffalo, New York","Rochester, New York",73
+"Buffalo, New York","Syracuse, New York",150
+"Buffalo, New York","Boston, Massachusetts",396
+"Buffalo, New York","Erie, Pennsylvania",95
+"Gilbert, Arizona","Chandler, Arizona",5
+"Gilbert, Arizona","Mesa, Arizona",9
+"Gilbert, Arizona","Tempe, Arizona",8
+"Glendale, Arizona","Phoenix, Arizona",9
+"Glendale, Arizona","Peoria, Arizona",5
+"Glendale, Arizona","Surprise, Arizona",9
+"North Las Vegas, Nevada","Las Vegas, Nevada",4
+"North Las Vegas, Nevada","Henderson, Nevada",14
+"North Las Vegas, Nevada","Paradise, Nevada",11
+"Des Moines, Iowa","Omaha, Nebraska",135
+"Des Moines, Iowa","Kansas City, Missouri",190
+"Des Moines, Iowa","Minneapolis, Minnesota",240
+"Des Moines, Iowa","St. Louis, Missouri",255
+"Des Moines, Iowa","Chicago, Illinois",135
+"Salt Lake City, Utah","Cheyenne, Wyoming",450
+"Salt Lake City, Utah","Fort Collins, Colorado",520
+"Salt Lake City, Utah","Las Vegas, Nevada",421
+"Salt Lake City, Utah","Sacramento, California",541
+"Salt Lake City, Utah","Albuquerque, New Mexico",571
+"Salt Lake City, Utah","Provo, Utah",45
+"Salt Lake City, Utah","Orem, Utah",42
+"Salt Lake City, Utah","Tooele, Utah",30
+"Salt Lake City, Utah","Grantsville, Utah",35
+"Salt Lake City, Utah","Ogden, Utah",40
+"Salt Lake City, Utah","Brigham City, Utah",60
+"Boston, Massachusetts","Buffalo, New York",396
+"Winston-Salem, North Carolina","Roanoke, Virginia",100
+"Winston-Salem, North Carolina","Charlottesville, Virginia",180
+"Winston-Salem, North Carolina","Greensboro, North Carolina",30
+"Winston-Salem, North Carolina","Charlotte, North Carolina",80
+"Winston-Salem, North Carolina","Raleigh, North Carolina",120
+"Winston-Salem, North Carolina","Asheville, North Carolina",100
+"Winston-Salem, North Carolina","Charlotte, North Carolina",80
+"Boise, Idaho","Twin Falls, Idaho",125
+"Boise, Idaho","Ontario, Oregon",80
+"Boise, Idaho","Spokane, Washington",350
+"Boise, Idaho","Missoula, Montana",270
+"Boise, Idaho","Elko, Nevada",200
+"Albuquerque, New Mexico","Las Vegas, Nevada",572
+"Las Vegas, Nevada","Albuquerque, New Mexico",572
+"Twin Falls, Idaho","Salt Lake City, Utah",165
+"Salt Lake City, Utah","Twin Falls, Idaho",165
+"Reno, Nevada","Twin Falls, Idaho",362
+"Reno, Nevada, Utah","Salt Lake City, Utah",518
+"Juneau, Alaska"
